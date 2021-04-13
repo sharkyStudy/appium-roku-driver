@@ -1,6 +1,6 @@
 {
   "name": "appium-roku-driver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Roku support for Appium",
   "main": "./build/index.js",
   "author": "Sharky Study <sharky.study@gmail.com>",
@@ -79,7 +79,7 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-mocha": "^8.1.0",
     "eslint-plugin-promise": "^4.0.0",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "pre-commit": "^1.1.3"
   },
   "homepage": "https://github.com/sharkyStudy/appium-roku-driver#readme",

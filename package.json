@@ -53,7 +53,7 @@
     "perf_hooks": "^0.0.1",
     "source-map-support": "^0.5.9",
     "teen_process": "^1.9.0",
-    "yargs": "^16.2.0"
+    "yargs": "^17.0.1"
   },
   "scripts": {
     "prepare": "gulp prepublish",
